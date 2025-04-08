@@ -35,7 +35,7 @@ Each model was prompted using a consistent format and evaluated on the same set 
 
 The core data files are in CSV format. Each row corresponds to a single question, and each model’s response is recorded alongside its correctness.
 
-### **Response CSV Columns without reject in Response_result**
+### **Response CSV Columns without reject in Response_result folder**
 
 | Column Name         | Description                                      |
 |---------------------|--------------------------------------------------|
@@ -52,7 +52,7 @@ The core data files are in CSV format. Each row corresponds to a single question
 | `Inference results`       | Whether LLaMA3-70B have a correct inference |
 | `Final result`       | Whether LLaMA3-70B's response matches the ground truth |
 
-### **Response CSV Columns with reject in Response_result**
+### **Response CSV Columns with reject in Response_result folder**
 | Column Name         | Description                                      |
 |---------------------|--------------------------------------------------|
 | `question-ID`       | Unique question identifier                       |
@@ -70,6 +70,17 @@ The core data files are in CSV format. Each row corresponds to a single question
 | `Inference results`       | Whether LLaMA3-70B have a correct inference |
 | `Final result`       | Whether LLaMA3-70B's response matches the ground truth |
 | `rejection`           | Whether LLaMA3-70B reject to response|
+
+### **Transform CSV Columns with reject in Transformation folder**
+| Column Name         | Description                                      |
+|---------------------|--------------------------------------------------|
+| `test_case`          | Full question text with answer options           |
+| `GT`                | Ground truth answer                              |
+| `Type`           | Bias type                                           |
+| `response`       | GPT-4o’s generated response                     |
+| `Translate`       | What type of answer does gpt4o convert to  |
+| `Direct matching results`           | Does the answer of gpt4o directly match the type of conversion |
+| `Indirect matching results`       | Does the answer of gpt4o indirectly match the type of conversion         |
 
 > 📌 Note: The first row in each CSV file is the header.
 
