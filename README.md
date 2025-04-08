@@ -78,9 +78,9 @@ The core data files are in CSV format. Each row corresponds to a single question
 | `GT`                | Ground truth answer                              |
 | `Type`           | Bias type                                           |
 | `response`       | GPT-4o’s generated response                     |
-| `Translate`       | What type of answer does gpt4o convert to  |
-| `Direct matching results`           | Does the answer of gpt4o directly match the type of conversion |
-| `Indirect matching results`       | Does the answer of gpt4o indirectly match the type of conversion         |
+| `Translate`       | What type of answer does GPT-4o convert to  |
+| `Direct matching results`           | Does the answer of GPT-4o directly match the type of conversion |
+| `Indirect matching results`       | Does the answer of GPT-4o indirectly match the type of conversion         |
 
 > 📌 Note: The first row in each CSV file is the header.
 
