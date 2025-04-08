@@ -35,7 +35,7 @@ Each model was prompted using a consistent format and evaluated on the same set 
 
 The core data files are in CSV format. Each row corresponds to a single question, and each model’s response is recorded alongside its correctness.
 
-### **CSV Columns without reject**
+### **Response CSV Columns without reject in Response_result**
 
 | Column Name         | Description                                      |
 |---------------------|--------------------------------------------------|
@@ -52,7 +52,7 @@ The core data files are in CSV format. Each row corresponds to a single question
 | `Inference results`       | Whether LLaMA3-70B have a correct inference |
 | `Final result`       | Whether LLaMA3-70B's response matches the ground truth |
 
-### **CSV Columns with reject**
+### **Response CSV Columns with reject in Response_result**
 | Column Name         | Description                                      |
 |---------------------|--------------------------------------------------|
 | `question-ID`       | Unique question identifier                       |
