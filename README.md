@@ -35,7 +35,7 @@ Each model was prompted using a consistent format and evaluated on the same set 
 
 The core data files are in CSV format. Each row corresponds to a single question, and each model’s response is recorded alongside its correctness.
 
-### **CSV Columns**
+### **CSV Columns without reject**
 
 | Column Name         | Description                                      |
 |---------------------|--------------------------------------------------|
@@ -48,6 +48,22 @@ The core data files are in CSV format. Each row corresponds to a single question
 | `Gemini_result`    | Whether Gemini’s response is correct             |
 | `llama3_resp`       | LLaMA3-70B’s response                            |
 | `llama3_result`    | Whether LLaMA3’s response is correct             |
+
+### **CSV Columns with reject**
+| Column Name         | Description                                      |
+|---------------------|--------------------------------------------------|
+| `question-ID`       | Unique question identifier                       |
+| `question`          | Full question text with answer options           |
+| `GT`                | Ground truth answer                              |
+| `GPT_resp`          | GPT-4’s generated response                       |
+| `GPT_result`       | Whether GPT-4's response matches the ground truth |
+| `reject`           | Whether GPT-4 reject to response|
+| `Gemini_resp`       | Gemini 1.0 Pro’s response                        |
+| `Gemini_result`    | Whether Gemini’s response is correct             |
+| `reject`           | Whether Gemini reject to response|
+| `llama3_resp`       | LLaMA3-70B’s response                            |
+| `llama3_result`    | Whether LLaMA3’s response is correct             |
+| `reject`           | Whether llama3 reject to response|
 
 > 📌 Note: The first row in each CSV file is the header.
 
