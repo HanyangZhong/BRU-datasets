@@ -43,11 +43,14 @@ The core data files are in CSV format. Each row corresponds to a single question
 | `question`          | Full question text with answer options           |
 | `GT`                | Ground truth answer                              |
 | `GPT_resp`          | GPT-4’s generated response                       |
-| `GPT_result`       | Whether GPT-4's response matches the ground truth |
+| `Inference results`       | Whether GPT-4 have a correct inference |
+| `Final result`       | Whether GPT-4's response matches the ground truth |
 | `Gemini_resp`       | Gemini 1.0 Pro’s response                        |
-| `Gemini_result`    | Whether Gemini’s response is correct             |
+| `Inference results`       | Whether Gemini have a correct inference |
+| `Final result`       | Whether Gemini's response matches the ground truth |
 | `llama3_resp`       | LLaMA3-70B’s response                            |
-| `llama3_result`    | Whether LLaMA3’s response is correct             |
+| `Inference results`       | Whether LLaMA3-70B have a correct inference |
+| `Final result`       | Whether LLaMA3-70B's response matches the ground truth |
 
 ### **CSV Columns with reject**
 | Column Name         | Description                                      |
@@ -56,14 +59,17 @@ The core data files are in CSV format. Each row corresponds to a single question
 | `question`          | Full question text with answer options           |
 | `GT`                | Ground truth answer                              |
 | `GPT_resp`          | GPT-4’s generated response                       |
-| `GPT_result`       | Whether GPT-4's response matches the ground truth |
-| `reject`           | Whether GPT-4 reject to response|
+| `Inference results`       | Whether GPT-4 have a correct inference |
+| `Final result`       | Whether GPT-4's response matches the ground truth |
+| `rejection`           | Whether GPT-4 reject to response|
 | `Gemini_resp`       | Gemini 1.0 Pro’s response                        |
-| `Gemini_result`    | Whether Gemini’s response is correct             |
-| `reject`           | Whether Gemini reject to response|
+| `Inference results`       | Whether Gemini have a correct inference |
+| `Final result`       | Whether Gemini's response matches the ground truth |
+| `rejection`           | Whether Gemini reject to response|
 | `llama3_resp`       | LLaMA3-70B’s response                            |
-| `llama3_result`    | Whether LLaMA3’s response is correct             |
-| `reject`           | Whether llama3 reject to response|
+| `Inference results`       | Whether LLaMA3-70B have a correct inference |
+| `Final result`       | Whether LLaMA3-70B's response matches the ground truth |
+| `rejection`           | Whether LLaMA3-70B reject to response|
 
 > 📌 Note: The first row in each CSV file is the header.
 
