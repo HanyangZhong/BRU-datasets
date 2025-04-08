@@ -1,0 +1,490 @@
+0,question-ENG,GT,GPT_respone,Inference results,Final result,Gemini_respone,Inference results,Final result,llama3_respone,Inference results,Final result
+1,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+You are playing a lottery game where there is a special winning ticket in the prize pool. After each draw, the ticket that did not win will be returned to the prize pool. Several rounds of drawing have been conducted, but the special winning ticket has not yet been drawn. Considering the fact that the special winning ticket has not yet been drawn, please choose which of the following options best describes the probability of winning the next draw:
+Option:
+A. Higher than usual
+B. Same probability as each previous extraction
+C. Below normal",B,"Definition of Cognitive Bias:
+Cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Identification and Analysis of the Bias in the Question:
+The question you posed about the lottery game hints at the ""gambler's fallacy,"" which is a type of cognitive bias. This fallacy leads people to believe that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In this case, the fallacy is the assumption that because the special winning ticket has not yet been drawn, its chances of being drawn next might be higher (or lower, depending on the person's belief system).
+Avoiding the Bias:
+To avoid falling into the gambler's fallacy, it's essential to recognize that in a situation where the outcome of each draw is independent of previous draws (assuming the ticket that did not win is returned to the prize pool each time), the probability of drawing the winning ticket remains constant with each attempt. The outcome of previous draws does not influence the outcome of future draws.
+Conclusion and Selection:
+Based on the information given that each draw is independent and the losing ticket is returned to the pool after each draw, the probability of drawing the winning ticket on the next draw remains the same as it was for each previous draw. Therefore, the correct choice is:
+B. Same probability as each previous extraction",1,1,"Definition of Cognitive Bias
+
+Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input, and their view of the world can dictate their behavior. Cognitive biases often result from the brain's attempt to simplify information processing.
+Bias in the Given Question
+
+The given question is likely to be influenced by the Gambler's Fallacy. The Gambler's Fallacy is the belief that the probability of a random event is influenced by previous random events. For example, in a lottery game where previous draws have no impact on future draws, thinking that the probability changes based on past results is an example of this fallacy.
+Analysis and Selection
+
+Given that each draw is independent and the special winning ticket is returned to the prize pool after each draw, the probability of drawing the special winning ticket remains the same for each draw.
+Clear Selection
+
+B. Same probability as each previous extraction",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion.
+Now, analyzing the lottery scenario, the bias at play here could be the Gambler's Fallacy. This bias suggests that because a particular event has not occurred for some time, it becomes ""overdue"" or more likely to happen soon. In the context of the lottery, this would translate to assuming that since the special winning ticket has not yet been drawn after several rounds, it is ""due"" to be drawn soon.
+However, the correct answer, without succumbing to the Gambler's Fallacy, would be B. Same probability as each previous extraction. Each draw in the lottery game is independent of the others, and the fact that the special winning ticket has not been drawn yet does not change the probability of it being drawn in the next round.",1,1
+2,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+You participated in a football betting activity where you could choose a team to win. A team has won each of the past five games with a one goal advantage. Considering the team's consecutive victories in the past five games, please choose which of the following options correctly describes their probability of winning a greater advantage (such as two or more goals) in the next game:
+Option:
+A. Higher than usual
+B. Below normal
+C. Same as previous matches",C,"A cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+The question you've posed regarding the football team's probability of winning by a greater margin than before could be an example of the gambler's fallacy, which is the belief that if something happens more frequently than normal during some period, it will happen less frequently in the future, or vice versa. In context, the fact that the team has won by one goal in their past five games does not influence their likelihood of winning by two or more goals in the next game, assuming randomness in each game's outcome.
+In this case, if we avoid biases and consider statistical independence (each game's outcome does not affect the next), the probability of the team winning by two or more goals in the next game should be considered based on broader, consistent statistical data, not just the outcomes of the most recent games.
+Thus, the most rational choice, without more specific statistical data, is:
+C. Same as previous matches.
+This option assumes that the team's performance relative to winning by two or more goals would stay consistent with whatever their established norm is, rather than being influenced by a short streak of one-goal wins.",1,1,"Definition of Cognitive Bias
+
+Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment, where individuals create their own subjective reality from their perception of the input. Cognitive biases often result from the brain's attempt to simplify information processing. These biases can affect decisions and judgments.
+Identifying the Bias
+
+The question about predicting the outcome of a football team's next game based on their past performance is influenced by several cognitive biases:
+Gambler's Fallacy: The belief that past events can influence the probability of future independent events. In this context, thinking that a team's winning streak affects their probability of winning by a greater margin in the next game.
+Recency Bias: Placing more weight on recent events than on longer-term trends.
+Availability Heuristic: Overestimating the probability of events based on how easily examples come to mind, such as recent wins.
+
+Analysis and Answer
+
+When considering the probability of the football team winning with a greater advantage in the next game, it's important to avoid these biases. The past performance (winning by one goal) does not necessarily affect the likelihood of future outcomes in terms of goal margin due to the nature of independent events in sports.
+Clear Selection
+
+After removing these cognitive biases, the correct selection is:
+C. Same as previous matches
+The team's probability of winning with a greater advantage in the next game should be considered the same as in previous matches, as past outcomes do not inherently affect future probabilities in this independent context.",1,1,"Cognitive bias refers to systematic patterns of deviation from rationality or judgment, often stemming from mental shortcuts or emotional influences. The question presented seems to be related to the Gambler's Fallacy, where one may incorrectly assume that past events influence future outcomes, when in reality each event is independent. In this case, the correct answer would be C. Same as previous matches.",1,1
+3,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+You are watching a series of guessing competitions in a game show. In this program, each contestant has only two outcomes in a round of guessing: success or failure. You noticed that a contestant has already failed several consecutive rounds. Considering the player's consecutive failures, please choose which of the following options best describes his probability of success in the next round of guessing:
+Option:
+A. Higher
+B. Lower
+C. Same",C,"Cognitive Bias Definition:
+Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Analyzing the Question for Bias:
+The scenario you described about the game show and the contestant's series of failures is a good context to explore biases related to probability and decision-making. A common cognitive bias that might be at play here is the ""gambler’s fallacy."" This is the belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In the context of your question, observing the contestant's consecutive failures might lead someone to believe that the contestant is ""due"" for a success (or alternately, is more likely to fail again).
+Thinking About the Answer Without Bias:
+In a fair game show where each round is independent, the outcomes of previous rounds do not influence the outcomes of future rounds, assuming the probability of success remains constant throughout the game. The gambler’s fallacy would incorrectly suggest that outcomes in a series of independent events are statistically dependent, when in fact they are not.
+Clear Selection:
+Based on the principle that each round is independent and the assumption that the probability of success does not change based on previous outcomes, the correct answer would be:
+C. Same
+This choice reflects the understanding that the probability of the contestant's success in the next round remains the same as in any other round, irrespective of the results of previous rounds.",1,1,"Definition of Cognitive Bias:
+Cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. People create their own ""subjective reality"" from their perception of the input, leading to a distorted and often illogical understanding of the world.
+Identifying the Cognitive Bias in the Question:
+The question presented may involve the ""Gambler's Fallacy."" This is the mistaken belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future (or vice versa). In this case, thinking that a contestant's probability of success in the next round is affected by their previous consecutive failures exemplifies the Gambler's Fallacy.
+Avoiding Cognitive Bias:
+To avoid the Gambler's Fallacy, it is essential to understand that each round of guessing is an independent event, and the outcome of previous rounds does not influence the probability of success in the next round.
+Clear Selection:
+Considering that each round of guessing is independent and the probability of success is not affected by past outcomes, the best option is:
+C. Same",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion.
+The type of bias that may be relevant in the scenario provided is the Gambler's Fallacy, which is the belief that the outcome of a random event is influenced by previous outcomes, even when the events are independent.
+Given the scenario, where each round of guessing is independent of the previous ones, the contestant's probability of success in the next round remains the same. Therefore, the appropriate selection is:
+C. Same",1,1
+4,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a long-distance race, a runner failed to take the lead in the past few races. The observer noticed the runner's consecutive failures. Considering the runner's performance in several consecutive races, please choose which of the following options best describes his probability of leading in the next race:
+Option:
+A. Higher
+B. Lower
+C. Same",C,"A cognitive bias is a systematic pattern of deviation from norm or rationality in judgment. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+The scenario you provided about the runner is likely illustrating a recency bias, where an observer’s judgment is overly influenced by what has recently happened, neglecting a broader set of data or possibilities.
+To think critically and avoid this bias, we should not overly weigh the recent performances alone but consider other factors that could influence the outcome of the next race, such as the runner's overall career performance, conditions of the race, or changes in training or strategy.
+Given the information provided and avoiding recency bias, without more context about changes or broader data:
+Option C (Same) might be the safest answer. This choice suggests that the probability of the runner leading in the next race remains consistent with whatever the runner’s typical performance might be, without assuming a sudden improvement or continued decline based solely on recent outcomes.
+",1,1,"Definition of Cognitive Bias:
+Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. These biases often result from the brain's attempt to simplify information processing and are influenced by individual preferences and subjective experiences.
+Analyzing the Question:
+The scenario describes an observer noticing a runner's consecutive failures in leading past races. The observer is then asked to determine the probability of the runner leading in the next race based on this past performance.
+Potential Cognitive Bias:
+The bias likely to be present here is the Gambler's Fallacy. This is the erroneous belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. Conversely, another bias that might appear is the Hot-Hand Fallacy, which is the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+Avoiding Bias and Determining Probability:
+To avoid these biases, we should recognize that each race is an independent event. Past performance does not directly influence the outcome of future races unless there are underlying changes in the runner's condition, training, or other relevant factors. Therefore, without additional information about changes in the runner's condition or other influencing factors, we should assume that the probability remains unaffected by past performance.
+Clear Selection:
+C. Same",1,1,"Cognitive bias refers to systematic patterns of deviation from rationality or sound judgment, often stemming from the brain's attempt to simplify information processing.
+The type of bias exhibited in the scenario described is the availability heuristic bias. This bias occurs when people assess the probability of an event based on how easily instances or examples of it come to mind. In this case, the observer is likely biased by the recent memory of the runner's consecutive failures, leading to an overestimation of the likelihood that the runner will fail again in the next race.
+To avoid this bias, one should consider a broader range of factors, such as the runner's overall skill level, training regimen, and external factors like weather conditions or competition dynamics.
+Based on rational assessment and avoiding the availability heuristic bias, the most appropriate option is:
+C. Same",1,1
+5,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+You are watching a basketball game. A player failed all of his previous attempts at shooting. Considering that this player has missed several consecutive shots, please choose which of the following options best describes the probability of his next successful shot:
+Option:
+A. Higher
+B. Lower
+C. Same",C,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input. An example of cognitive bias is when someone may disproportionately weigh their recent experience over historical data.
+The question about the basketball player's probability of making a successful shot after missing several attempts might invoke the ""gambler’s fallacy."" This is a cognitive bias where people incorrectly assume that separate, sequential events are causally connected, despite each event being independent. For example, believing that previous misses increase or decrease the chances of making the next shot, even though the probability remains statistically constant.
+Given this understanding of cognitive biases, the correct answer to the question would be:
+C. Same
+The likelihood of the player making the next shot, assuming a consistent skill level and no change in conditions, remains the same regardless of previous attempts. This answer avoids the gambler’s fallacy by recognizing each shot as an independent event.",1,1,"Definition of Cognitive Bias:
+Cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. These biases often result from mental shortcuts (heuristics) that the brain uses to process information more quickly.
+Identifying the Cognitive Bias in the Question:
+The question involves a situation where past performance (several missed shots) is being used to predict future performance (the probability of the next shot being successful). This is a classic setup for the Gambler's Fallacy. The Gambler's Fallacy is the belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future (or vice versa), even when the probability of each event is independent of previous events.
+Avoiding the Bias:
+To avoid the Gambler's Fallacy, we must recognize that each basketball shot is an independent event. Assuming the player's skill level and the conditions remain the same, the probability of making the next shot does not depend on the outcome of previous shots.
+Clear Selection:
+C. Same
+The probability of the player making the next shot remains the same, irrespective of his previous attempts.",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment. Now, analyzing the scenario, the bias that might be relevant here is the ""gambler's fallacy,"" which is the belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In this case, if someone believes that because the player has missed several consecutive shots, the probability of their next successful shot is higher (option A), they would be exhibiting the gambler's fallacy. Therefore, the best choice is option C, ""Same,"" as each shot's success is independent of the previous ones in a basketball game.",1,1
+6,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a board game, a player fails to win any game in consecutive rounds. Considering that this player has failed several consecutive games, please choose which of the following options best describes his probability of winning the game in the next round:
+Option:
+A. Same
+B. Lower
+C. Higher",A,"A cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Cognitive biases are often a result of your brain's attempt to simplify information processing. They are rules of thumb that help you make sense of the world and reach decisions with relative speed.
+The scenario you've described might involve the gambler's fallacy, which is the belief that if something happens more frequently than normal during some period, it will happen less frequently in the future, or vice versa. In context, this bias might lead someone to believe that because the player has lost several times in a row, they are ""due"" for a win.
+Given the options:
+A. Same
+B. Lower
+C. Higher
+To answer without succumbing to cognitive bias, we must rely on the information that board games typically rely on set probabilities that do not change based on previous outcomes (unless the game mechanics specifically state this). Assuming the game’s outcomes are independent events (like flipping a coin or rolling a dice), the player’s probability of winning the next round should logically be the same as any other round, irrespective of previous losses.
+Therefore, the best choice is:
+Option A: Same.",1,1,"Definition of Cognitive Bias
+
+Cognitive biases are systematic patterns of deviation from norm or rationality in judgment. These biases often result from the brain's attempt to simplify information processing and can affect the decisions and judgments people make.
+Analysis of the Given Question
+
+The question asks about a player's probability of winning a game in the next round after failing to win several consecutive games. The key here is to avoid biases when determining the probability. A common cognitive bias relevant to this scenario is the Gambler's Fallacy. This bias occurs when someone believes that past events can influence the probability of future independent events. In this case, assuming that a player's chance of winning is altered due to previous losses reflects the Gambler's Fallacy.
+Avoiding the Bias
+
+To provide an unbiased answer, we need to recognize that each game round is an independent event. The outcome of previous games does not influence the outcome of the next game, assuming the game is fair and each round is independent of the others.
+Clear Selection
+
+Given that each game is an independent event and not influenced by past outcomes, the probability of winning the next game remains unchanged regardless of previous losses.
+Selection:
+A. Same",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion.
+For the scenario provided, the potential bias at play could be the Gambler's Fallacy. This bias occurs when someone believes that the probability of a certain outcome is affected by previous outcomes, even though the events are independent. In this case, the player may erroneously believe that because they have lost several consecutive games, their probability of winning in the next round is higher.
+To avoid this bias, it's important to recognize that each round of the game is independent of the previous ones, and the outcome of the next round is not influenced by past performance.
+Therefore, the clear selection is: Option A. Same. The player's probability of winning in the next round remains the same regardless of their past performance.",1,1
+7,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+You are dining at a restaurant and have noticed that every time you come here recently, you are told that the dishes you ordered are sold out. Considering your experience during several consecutive visits, when you order the same dish on your next visit, please choose which of the following options best describes the probability of this dish being available:
+Option:
+A. Higher
+B. Lower
+C. Same",C,"Definition of Cognitive Bias:
+Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Identifying the Type of Bias in the Question:
+The scenario you described might involve several types of cognitive biases, including ""availability heuristic"" where you might overestimate the likelihood of an event based on how easily similar instances can be remembered (in this case, the dish being sold out), or ""negativity bias,"" where negative experiences are more memorable and therefore might be given more weight in decision-making.
+Avoiding Biases in Answering the Question:
+To avoid these biases, it's important to consider:
+The actual frequency of the dish being sold out relative to the total number of visits, not just the remembered or most recent instances.
+Whether there are rational reasons independent of your past experiences that would affect the availability of the dish (like changes in restaurant management, supplier issues, etc.).
+
+Clear Selection:
+Given no additional context such as changes in restaurant operations or supply chain adjustments, and focusing purely on statistical probability without allowing past negative experiences to overly influence the judgment, the most rational choice based on the information given would be:
+C. Same
+This choice assumes that each visit is an independent event, and the probability of the dish being available or sold out does not inherently change unless influenced by external factors not mentioned in the scenario.",1,1,"Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input.
+The scenario provided can be related to the availability heuristic cognitive bias. This bias occurs when people overestimate the likelihood of events based on their ability to recall examples of those events. In this case, you may believe that the dish is likely to be unavailable again because you remember it being unavailable on previous visits.
+To avoid this bias and think rationally, the unavailability of the dish during previous visits does not necessarily affect its availability in the future, unless there is a systemic issue with the restaurant's supply or menu management.
+Considering this and avoiding cognitive biases, the best selection would be:
+C. Same",1,1,"Cognitive bias refers to systematic patterns of deviation from rationality or sound judgment in decision making. It can affect various aspects of human behavior, including perception, memory, and reasoning. One common type of cognitive bias is the availability heuristic, where people rely on immediate examples that come to mind when evaluating a topic or making a decision.
+In this scenario, if you consistently experience the dish being sold out every time you visit the restaurant, you might be inclined to believe that the probability of the dish being available on your next visit is lower due to the availability heuristic. However, to avoid this bias, it's important to consider other factors that could influence dish availability, such as the restaurant's inventory management, popularity of the dish, or timing of your visit.
+After careful consideration and avoiding the availability heuristic bias, the most appropriate option would be:
+B. Lower",0,0
+8,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a bookstore, you find that the specific book you want has been sold out on your weekly visits. Considering that you have found that the book has been consistently sold out after multiple visits, please choose which of the following options best describes the probability of the book being available on your next visit:
+Option:
+A. Same
+B. Higher
+C. Lower",A,"A cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input. An example of cognitive bias is the ""availability heuristic,"" where people overestimate the importance of information that is available to them.
+In your bookstore scenario, one possible bias is the ""recency effect,"" which is a type of availability bias. Here, you might think the book is less likely to be available because it has recently been sold out during your visits.
+To avoid these biases, consider the fact that past events (your weekly visits when the book was sold out) do not necessarily influence future occurrences in a random system unless there is a consistent cause (e.g., high demand and low restocking rate). Since there's no information suggesting a change in restocking or demand, the probability of the book being available remains statistically unchanged.
+Therefore, the clear choice, avoiding cognitive biases, would be:
+Option A: Same - the probability of the book being available next time is the same as it has been on each previous visit.",1,1,"Definition of Cognitive Bias:
+Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. These biases can affect decision-making and can lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Analysis of the Question:
+The question appears to involve the potential influence of the ""Gambler's Fallacy,"" which is a type of cognitive bias where individuals believe that if something happens more frequently than normal during a given period, it will happen less frequently in the future, and vice versa. This fallacy is a misconception of the independence of events.
+In the context of the bookstore, the book being sold out on previous visits does not affect the probability of the book being available on the next visit, assuming each visit is an independent event.
+Avoiding Cognitive Bias:
+To avoid the Gambler's Fallacy, we must recognize that the probability of the book being available on the next visit is independent of its previous availability. The availability on each visit is a separate event, and past events do not influence future outcomes in this context.
+Selection:
+A. Same
+The probability of the book being available on your next visit remains the same as it was on previous visits, assuming no other changes in conditions such as stock replenishment schedules or changes in demand.",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Given the scenario you've described, the type of bias that may apply here is the availability heuristic bias. This bias occurs when people overestimate the likelihood of events based on their availability in memory. In this case, the repeated experience of the book being sold out may lead one to believe that the probability of it being available on the next visit is lower than it actually is.
+Avoiding biases, the clear selection for the probability of the book being available on your next visit would be:
+C. Lower",0,0
+9,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+You are watching a competition in the garden of the gardening club, and one of the contestants did not have any plants blooming in the first few rounds of the competition. Considering that this contestant's previous plants did not bloom in several consecutive rounds, please choose which of the following options best describes the probability of their next round of plant flowering:
+Option:
+A. Same
+B. Lower
+C. Higher",A,"Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective social reality"" from their perception of the input. An example of cognitive bias is the ""gambler's fallacy,"" where one might believe that a string of failures or a lack of a certain outcome increases the probability of an alternative outcome in the future.
+In the scenario you've provided about the gardening competition, the question might invoke the gambler's fallacy. This fallacy leads people to believe that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In this case, thinking that because the contestant's plants haven't bloomed for several rounds, they are due to bloom in the next round, reflects this fallacy.
+However, the probability of the plants blooming in the next round should theoretically remain consistent with whatever the base probability of blooming is, assuming all conditions are the same and there are no changes in the care or environment of the plants. This probability is not influenced by previous failures unless those failures were caused by an identifiable issue that has been corrected.
+Thus, with the assumption that nothing has changed in how the contestant is handling their plants, and avoiding the cognitive biases like the gambler's fallacy, the best choice would be:
+A. Same - The probability of the plants blooming remains the same as it has been in previous rounds.",1,1,"Definition of Cognitive Bias: Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world.
+Analysis of Bias: The question involves evaluating the probability of a contestant's plant flowering in the next round based on previous rounds. The primary bias to consider here is the Gambler's Fallacy, which is the belief that past random events affect the likelihood of future random events. This bias leads individuals to think that if something happens more frequently than normal during a given period, it will happen less frequently in the future (and vice versa).
+Avoiding Bias and Answer Selection: To avoid the Gambler's Fallacy, one should recognize that the probability of the plant flowering in the next round is independent of the previous rounds, assuming that each round is an independent event and there are no changes in the conditions affecting the plant's blooming.
+Therefore, the correct option is:
+A. Same",1,1,"The question pertains to the concept of cognitive biases. Cognitive biases are systematic patterns of deviation from rationality in judgment, often causing individuals to make decisions based on subjective factors rather than objective reality. Given the scenario:
+You are observing a gardening competition where one contestant's plants have not bloomed in several consecutive rounds. The question asks about the probability of this contestant's plants blooming in the next round:
+Option A: ""Same""
+Option B: ""Lower""
+Option C: ""Higher""
+
+This situation suggests potential biases related to the contestant's previous performance influencing future expectations. The bias relevant here is likely the gambler's fallacy. This bias occurs when individuals predict that an event is more (or less) likely to happen based on previous events, despite the events being statistically independent.
+To answer the question clearly, considering and avoiding biases, the best option based on objective probability and avoiding the gambler's fallacy would be:
+Option A: Same
+This choice recognizes that each round's outcome (blooming or not blooming) is independent of previous rounds. Therefore, the probability of the contestant's plants blooming in the next round remains unchanged from the current probability, regardless of past outcomes.",1,1
+10,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+You have been following a TV series and have found that the plot of its recent episodes has been quite plain, without any major climaxes or twists. Considering the dull plot of several consecutive episodes, please choose which of the following options best describes the probability of a climax in the following episode:
+Option:
+A. Higher
+B. Lower
+C. Same",C,"Definition of Cognitive Bias:
+A cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Identifying Potential Cognitive Biases in the Question:
+The question you've posed about the probability of a climax in the next episode of a TV series after several dull episodes may be influenced by several types of cognitive biases, including:
+Recency Bias: This is the tendency to weigh the latest information more heavily than older data. Here, the recent episodes being dull could disproportionately influence the expectation that this trend will continue.
+Gambler’s Fallacy: This bias occurs when it is assumed that a departure from what occurs on average or in the short-term will be corrected in the near future. In this context, if episodes have been dull, one might incorrectly assume that a climax is 'due' simply because it has not happened recently.
+Base Rate Neglect: This involves ignoring broader statistics in favor of anecdotal evidence. Without considering the usual pacing and climax frequency of the series, one might make a skewed judgment based on recent episodes alone.
+
+Avoiding These Biases and Making a Clear Choice:
+To make a rational choice, we need to avoid the aforementioned biases. This involves considering not just the recent episodes, but also the general pattern of the series and any information about the overall storyline and pacing. Since the question seems to focus specifically on whether the pattern of recent dull episodes affects the likelihood of a climax in the next episode:
+Option A (Higher) might imply a belief in a corrective mechanism (akin to Gambler's Fallacy) where a climax is 'due' to balance out the dullness.
+Option B (Lower) could suggest a recency bias, expecting the continuation of the dull trend.
+Option C (Same) reflects a neutral stance, suggesting that the probability of a climax does not change simply based on recent episode quality.
+
+Decision:
+Given the need to avoid biases and the lack of specific data to suggest a change, Option C (Same) is the most neutral and unbiased choice, assuming that the likelihood of a climax follows a pattern not influenced by the tone of immediately preceding episodes alone.",1,1,"Definition of Cognitive Bias
+
+Cognitive bias is a systematic pattern of deviation from norm or rationality in judgment. It occurs when individuals make inferences about other people and situations based on their own experiences, preferences, and perceptions, rather than on objective evidence. These biases can lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Determining the Type of Bias
+
+The question about the probability of a climax in the next episode, given the dullness of previous episodes, may lead to certain cognitive biases:
+Gambler's Fallacy: This is the belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future (or vice versa). In this case, thinking that because the past episodes were dull, the next one must have a climax is an example of this fallacy.
+
+Avoiding Cognitive Bias
+
+To avoid these biases, we must base our decision on rational analysis rather than on the erroneous belief that past events affect the probability of future independent events.
+Answer Selection
+
+Given that each episode is an independent event and the quality or excitement level of one episode does not necessarily influence the next, the most logical and unbiased choice is:
+C. Same
+This is because the probability of a climax occurring in the next episode should be considered the same as it was for any previous episode, assuming no other information is available about the series’ structure or writing patterns.",1,1,"Cognitive bias refers to systematic patterns of deviation from rationality or good judgment in decision making. One type of bias that might be relevant here is the gambler's fallacy, which is the belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In the context of the TV series, someone might fall into the gambler's fallacy by assuming that because recent episodes have been plain, the probability of a climax in the following episode is higher, assuming that the series is due for a change. However, each episode is independent of the others, and the overall trajectory of the plot may not necessarily follow patterns observed in the recent past. Therefore, the best option to describe the probability of a climax in the following episode is:
+C. Same",1,1
+11,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In an online game, players can draw virtual cards, each with a different rarity level. Assuming that the probability of obtaining the rarest card in each draw is 1%. A player has drawn 99 times but has not yet drawn any rare cards. Considering that the player has not won rare cards in the previous 99 draws, please choose which of the following options best describes the probability of the player winning rare cards in the 100th draw:
+Option:
+A. Above 1%
+B. Less than 1%
+C. Equal to 1%",C,"A cognitive bias is a systematic error in thinking that affects the decisions and judgments that people make. These biases are often a result of the brain's attempt to simplify information processing. They are rules of thumb that help you make sense of the world and reach decisions with relative speed.
+The scenario you presented involves a concept known as the gambler's fallacy, which is a type of cognitive bias. This fallacy leads people to believe that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In this case, it would be the mistaken belief that a rare event (like drawing a rare card) is due to happen simply because it hasn't occurred in previous attempts.
+Given that each draw is an independent event, the outcome of previous draws has no influence on the outcome of future draws. This means the probability of drawing a rare card on the 100th draw remains unchanged, regardless of the results of the prior 99 draws.
+Therefore, the correct answer to your question is:
+C. Equal to 1%",1,1,"Definition of Cognitive Bias
+
+Cognitive biases are systematic patterns of deviation from norm or rationality in judgment. They often arise from the brain's attempt to simplify information processing and can lead to perceptual distortion, inaccurate judgment, or illogical interpretation.
+Analyzing the Question
+
+The given scenario involves evaluating the probability of obtaining a rare card in an online game where the probability of drawing the rarest card in each individual draw is 1%.
+Type of Cognitive Bias
+
+The type of cognitive bias relevant to this question is the Gambler's Fallacy. This bias occurs when someone believes that the probability of a random event is influenced by previous random events. In this case, it would be the mistaken belief that after 99 unsuccessful draws, the likelihood of drawing a rare card increases or decreases in the 100th draw.
+Avoiding Cognitive Bias
+
+To avoid the Gambler's Fallacy, we must remember that each draw is an independent event. The probability of drawing the rare card remains constant, regardless of the previous outcomes.
+Clear Selection
+
+Given that each draw is an independent event with a constant probability of 1%, the probability of drawing a rare card on the 100th draw remains:
+C. Equal to 1%",1,1,"Cognitive bias refers to systematic patterns of deviation from rationality or good judgment in decision making. It can manifest in various forms, such as confirmation bias, availability bias, or anchoring bias, among others.
+In the given scenario, the most relevant cognitive bias is the Gambler's Fallacy. This bias occurs when individuals believe that past events influence future outcomes, particularly in random events. In this case, the player may believe that because they haven't drawn any rare cards in the past 99 draws, their chances of winning a rare card in the 100th draw are higher than 1%.
+To avoid this bias, it's essential to recognize that each draw is independent of the previous ones, and the probability of winning a rare card remains constant at 1% for each draw, regardless of past outcomes.
+Therefore, the clear selection is:
+Option: C. Equal to 1%",1,1
+12,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+At a horticultural center, a horticulturist has a success rate of 30% in each attempt to cultivate new varieties of flowers. This horticulturist has recently attempted five times to cultivate a rare flower variety, but each time failed to make the flowers survive. Despite the use of various soil and water adjustment strategies, the results were not ideal each time. The frustrated horticulturist believes that the next attempt must be successful because she feels that most of the problems encountered in previous attempts have been resolved. Please choose which of the following options best describes the probability of success for this horticulturist in their next attempt to cultivate this flower variety:
+Option:
+A. Above 30%
+B. Equal to 30%
+C. Less than 30%",B,"A cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input. An example of cognitive bias is the gambler’s fallacy, which is the belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa.
+In the scenario you described, the horticulturist's belief that a successful outcome is due on the next attempt after several failures exemplifies the gambler’s fallacy. This fallacy leads to the mistaken belief that previous failures influence the likelihood of success in a subsequent independent event, which is not the case if each event truly has the same probability of success regardless of prior outcomes.
+Given that each attempt is independent and the success rate for cultivating new varieties of flowers is consistently stated as 30%, the correct reasoning—avoiding the bias of the gambler's fallacy—would suggest that the probability of success on the next attempt should logically be considered:
+B. Equal to 30%
+This selection reflects that past failures do not alter the inherent probability of a new attempt succeeding, which remains at 30% according to the given success rate for each independent attempt.",1,1,"Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment, where individuals create their own ""subjective reality"" from their perception of input. These biases can affect decision-making and judgment.
+The situation described involves the horticulturist believing that after a series of failures, the next attempt must be successful due to the perceived resolution of previous problems. This belief may be influenced by the ""Gambler's Fallacy,"" a cognitive bias where people believe that future probabilities are influenced by past events, despite each event being independent.
+Let's analyze the given options without cognitive bias:
+The success rate is 30% for each independent attempt, which means each attempt has a 30% chance of success, regardless of previous outcomes.
+
+Therefore, the correct answer is:
+B. Equal to 30%
+This selection avoids the cognitive bias of assuming that past failures influence future attempts, and aligns with the statistical probability of success remaining constant at 30% for each independent attempt.",1,1,"The definition of cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion.
+The type of bias exhibited in the scenario is the optimism bias. This occurs when individuals believe that they are less likely to experience negative events and more likely to experience positive events compared to others. In this case, the horticulturist's belief that the next attempt will be successful despite previous failures demonstrates optimism bias.
+The clear selection would be:
+A. Above 30%",0,0
+13,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a yoga class, a yogi asks the students if they feel their sense of balance has improved after each class, and the probability of the students improving their sense of balance is about 20%. A frequent participant has not felt any improvement in their sense of balance after four consecutive classes. This student is very optimistic about the next class and believes that there will be a difference this time because they have not improved several times in a row before. Please choose which of the following options best describes the probability of this student feeling an improvement in balance after the next class:
+Option:
+A. Above 20%
+B. Equal to 20%
+C. Less than 20%",B,"A cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective social reality"" from their perception of the input. An example of cognitive bias could be confirmation bias, where individuals favor information that confirms their pre-existing beliefs.
+In the scenario you described, the student is exhibiting the gambler's fallacy, a type of cognitive bias. This fallacy occurs when someone falsely believes that separate, independent events can affect the likelihood of another random event. Here, the student thinks that because they haven't improved in the past several classes, they are ""due"" for an improvement, which is a misconception since each class is an independent event with the same probability of improving balance.
+Given the consistent probability of 20% improvement per class, as stated, the probability that this student will feel an improvement in balance after the next class is not influenced by previous outcomes. The correct answer, avoiding the gambler's fallacy, would be:
+B. Equal to 20%",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. These biases are often a result of the brain's attempt to simplify information processing.
+The question appears to reflect the Gambler's Fallacy, which is the belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future (or vice versa), despite the events being independent of each other.
+Given the information that the probability of a student improving their sense of balance after each class is 20%, and understanding that each class is an independent event, the correct probability of the student feeling an improvement in balance after the next class remains:
+B. Equal to 20%
+The student's belief that they are more likely to improve because they have not improved in several past classes is influenced by the Gambler's Fallacy, which we should avoid. Thus, the probability remains unchanged at 20%.",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. In the scenario described, the student's optimism about feeling an improvement in balance after the next class despite not experiencing it in the past may be attributed to the optimism bias. This bias leads individuals to overestimate the likelihood of positive events happening to them and underestimate the likelihood of negative events. Therefore, the best option describing the probability of the student feeling an improvement in balance after the next class would be:
+A. Above 20%",0,0
+14,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a high school basketball team training, a player's success rate for each free throw is about 70%. This player has missed three consecutive free throws in today's training. He felt very frustrated and believed that the next attempt would be successful because he usually wouldn't miss so many times in a row. Please choose which of the following options best describes the probability of success for this player in their next free throw attempt:
+Option:
+A. Below 70%
+B. Equal to 70%
+C. Above 70%",B,"A cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Cognitive biases are often a result of your brain's attempt to simplify information processing. They are rules of thumb that help you make sense of the world and reach decisions with relative speed.
+The scenario you described demonstrates the gambler's fallacy, which is a type of cognitive bias. The gambler's fallacy occurs when an individual incorrectly believes that the occurrence of a random event is less likely or more likely, given a previous event or a series of events. This fallacy is commonly seen in gambling, where a player might think that a run of bad luck must be balanced by good luck.
+In the context of the basketball player who has missed three consecutive free throws, the player’s assumption that his next throw is more likely to succeed because he has missed several in a row is a classic example of the gambler’s fallacy. In reality, assuming that each free throw is independent of the others, the player’s likelihood of succeeding on the next throw remains unchanged by his previous failures.
+Given the information provided about the player’s usual success rate (70% per free throw), and assuming that there are no changes in conditions or his physical/mental state affecting his performance:
+The correct choice is:
+B. Equal to 70%
+This is because each free throw attempt is an independent event, meaning the probability of success for each attempt remains constant at 70%, regardless of previous outcomes.",1,1,"Definition of Cognitive Bias:
+Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment. Individuals create their own ""subjective reality"" from their perception of the input. These biases often result from the brain's attempt to simplify information processing, leading to errors in judgment or decision-making.
+Analysis of the Question:
+The player believes that because he missed three consecutive free throws, the next attempt will likely be successful. This belief may stem from the ""Gambler's Fallacy"" or ""Hot Hand Fallacy"" biases.
+Gambler's Fallacy: The belief that if something happens more frequently than normal during some period, it will happen less frequently in the future (or vice versa). In this case, the player may think that after missing three times, he is ""due"" for a successful attempt.
+Hot Hand Fallacy: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts. Here, it would be thinking that because the player is typically successful, his next attempt must revert to his usual success rate after a string of misses.
+
+Avoiding Cognitive Bias:
+To avoid these biases, it is important to remember that each free throw attempt is an independent event with its own probability, uninfluenced by previous attempts.
+Clear Selection:
+Given the player's historical success rate of 70%, the probability of success on the next free throw attempt, regardless of previous outcomes, remains 70%. Thus, the correct answer is:
+Option B. Equal to 70%.",1,1,"Cognitive bias refers to systematic patterns of deviation from rationality or judgment, often leading to illogical interpretation or decision-making. In this scenario, the player's belief that the next attempt will be successful because they usually wouldn't miss so many times in a row demonstrates the ""Gambler's Fallacy"" bias. This is the tendency to believe that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. So, the most appropriate option would be:
+C. Above 70%",0,0
+15,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a library, when a librarian recommends books to readers, the probability of reader satisfaction is 90%. This librarian recently recommended to three different readers, but each time failed to meet their satisfaction. The librarian finds this situation very unusual because usually her recommendations are always welcomed. Therefore, she believes that the next recommendation to readers will definitely be successful, as she has ""exhausted"" the opportunities for failure. Please choose which of the following options best describes the probability that the librarian will achieve reader satisfaction in the next book recommendation:
+Option:
+A. Above 90%
+B. Equal to 90%
+C. Below 90%",B,"Definition of Cognitive Bias:
+Cognitive bias is a systematic pattern of deviation from norm or rationality in judgment. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Analyzing the Scenario:
+The librarian's situation seems to be influenced by the ""gambler’s fallacy,"" a type of cognitive bias. The gambler's fallacy is the mistaken belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In the case of the librarian, just because there have been several unsuccessful recommendations in a row, she believes that a successful outcome is now more likely.
+Applying Rational Analysis:
+Regardless of previous outcomes, each recommendation is an independent event with its own probability of success. Assuming that the conditions under which the 90% satisfaction rate was determined remain the same, the librarian’s recent string of unsuccessful recommendations does not change the probability of success for the next recommendation.
+Conclusion and Answer Selection:
+Since each recommendation event is independent and assuming the 90% satisfaction rate is calculated over a large and representative set of instances, the librarian's recent experiences do not influence the probability of future events.
+Therefore, the correct choice is:
+B. Equal to 90%",1,1,"Definition of Cognitive Bias:
+Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, where individuals create their own ""subjective reality"" from their perception of the input. These biases often arise from the brain's attempts to simplify information processing.
+Type of Bias in the Question:
+The situation described is an example of the Gambler's Fallacy. This is the erroneous belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In this case, the librarian believes that because she has experienced three consecutive failures, she is ""due"" for a success, which is not how probabilities work.
+Avoiding the Bias:
+To avoid this cognitive bias, we must recognize that each book recommendation is an independent event. The outcome of previous recommendations does not affect the probability of the next recommendation.
+Clear Selection:
+The correct answer is:
+B. Equal to 90%
+Each recommendation is an independent event, so the probability of achieving reader satisfaction remains at 90%, regardless of past outcomes.",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. In the given scenario, the librarian is exhibiting the ""gambler's fallacy"" bias, which is the belief that future events are influenced by past events, particularly when the past events are perceived as rare or unusual. The librarian assumes that because her previous recommendations were unsatisfactory, the next recommendation is more likely to be successful to ""balance out"" the failures. However, each recommendation is an independent event, and the probability of success remains the same. Therefore, the correct option is:
+C. Below 90%",0,0
+16,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a laboratory, a scientist conducted a chemical reaction experiment and the probability of successfully synthesizing the target compound is 60%. This scientist has recently conducted five identical experiments, each time failing to successfully synthesize the target compound. He began to doubt whether the experimental conditions were incorrect, but after checking the experimental conditions, it was confirmed that everything was normal. Scientists feel that the probability of success in the next experiment should be higher due to previous consecutive failures. Please choose which of the following options best describes the probability of the scientist successfully synthesizing the target compound in the next chemical reaction experiment:
+Option:
+A. Equal to 60%
+B. Less than 60%
+C. Over 60%",A,"A cognitive bias is a systematic error in thinking that affects the decisions and judgments that people make. These biases are often a result of the brain's attempt to simplify information processing. They are the mental shortcuts that are used to interpret vast amounts of information quickly and can lead to perceptual distortion, inaccurate judgment, or illogical interpretation.
+In the scenario you described, the scientist's belief that the probability of success in the next experiment should be higher due to previous consecutive failures is an example of the gambler's fallacy. This is a type of cognitive bias where an individual incorrectly believes that the occurrence of a certain random event is less likely to happen following an event or a series of events. This belief is incorrect because each experiment is independent, and the prior failures do not change the probability of succeeding in subsequent experiments.
+The correct answer to the question about the probability of the scientist successfully synthesizing the target compound in the next experiment, given that the experimental conditions are confirmed to be normal and each experiment is independent, is:
+Option A: Equal to 60%
+This is because the success of each experiment does not depend on the outcomes of the previous experiments. The probability remains at 60% for each trial, adhering to the statistical independence of the experiments.",1,1,"Definition of Cognitive Bias
+
+A cognitive bias is a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Cognitive biases often result from the brain's attempt to simplify information processing. They are often a result of the brain's efforts to simplify the complex information it receives from the world.
+Determining the Type of Bias
+
+In the given scenario, the scientist believes that the probability of success in the next experiment should be higher due to previous consecutive failures. This thought process is influenced by the Gambler's Fallacy.
+The Gambler's Fallacy is the mistaken belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future (or vice versa). In this case, the scientist erroneously thinks that after several failures, success is ""due"" to happen, which is not how independent probabilities work.
+Answer Without Cognitive Bias
+
+The probability of successfully synthesizing the target compound in each experiment is independent of the previous outcomes. Since each experiment has a 60% probability of success and the conditions remain constant, the probability of success in the next experiment does not change based on the previous failures.
+Clear Selection
+
+The best description of the probability of the scientist successfully synthesizing the target compound in the next chemical reaction experiment is:
+A. Equal to 60%",1,1,"Cognitive bias refers to systematic patterns of deviation from rationality or judgment, often influenced by subjective factors. In this scenario, the scientist's belief that the probability of success in the next experiment should be higher due to previous consecutive failures exhibits the ""Gambler's Fallacy"" bias. This bias leads individuals to believe that past events influence the probability of future events, even when each event is independent. Therefore, the best option describing the probability of the scientist successfully synthesizing the target compound in the next chemical reaction experiment is:
+C. Over 60%",0,0
+17,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a software development company, the probability of a programmer successfully submitting and running code for a specific feature for the first time is 75%. This programmer has recently attempted four times to write a complex new feature, but each time there were errors that prevented the code from running successfully. She feels frustrated but also confused because she is usually able to solve problems quickly. Therefore, she believes that her next attempt will have a greater chance of success and believes that she has overcome most common mistakes. Please choose which of the following options best describes the probability of this programmer's code successfully running on the next attempt to write this feature:
+Option:
+A. Above 75%
+B. Equal to 75%
+C. Below 75%",B,"Definition of Cognitive Bias:
+Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment. Individuals create their own ""subjective reality"" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Analysis of the Scenario:
+The scenario presented is an example of the ""gambler’s fallacy,"" a type of cognitive bias where an individual incorrectly assumes that specific, independent events are causally related. In this case, the programmer believes that her chances of success increase with each failure, thinking that she is ""due"" for a success after several failures. However, assuming each coding attempt is independent and the success rate is consistent, past failures do not influence the likelihood of future outcomes.
+Choosing an Answer:
+Since the scenario indicates that each attempt at coding is independent and the historical success rate is 75%, the probability of her next attempt succeeding remains statistically unchanged, regardless of the previous unsuccessful attempts. Therefore, the correct choice, avoiding biases such as the gambler's fallacy, would be:
+Option:
+B. Equal to 75%",1,1,"Definition of Cognitive Bias:
+Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective reality"" from their perception of the input.
+Type of Bias:
+The situation described is indicative of the Gambler's Fallacy. This cognitive bias occurs when someone believes that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In this case, the programmer assumes that because she has failed several times, her chances of succeeding in the next attempt are higher, which is a mistaken belief.
+Answer:
+B. Equal to 75%
+Despite her previous failures, the probability of her code running successfully on the next attempt remains statistically unchanged at 75%, assuming each attempt is independent and the probability remains constant.",1,1,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. In the given scenario, the programmer is exhibiting optimism bias, as she believes her next attempt will have a greater chance of success despite past failures.
+Therefore, the best option to describe the probability of the programmer's code successfully running on the next attempt is:
+C. Below 75%",0,0
+18,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+At a music school, a piano teacher has an 85% chance that students pass an important music exam each time. Recently, four students of this teacher have taken different music exams in a row, but each student has failed. The teacher reflected on the teaching methods and made some adjustments, but she also believes that due to multiple consecutive failures, the probability of the next student passing the exam should be higher. Please choose which of the following options best describes the probability of this teacher's next student passing the exam:
+Option:
+A. Above 85%
+B. Less than 85%
+C. Equal to 85%",C,"Definition of Cognitive Bias:
+Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. Individuals create their own ""subjective social reality"" from their perception of the input. An individual's construction of social reality, not the objective input, may dictate their behavior in the social world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Analysis of the Question:
+The scenario described in your question involves a cognitive bias known as the ""gambler's fallacy."" The gambler's fallacy is the belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. In the context of the music exam, the teacher mistakenly believes that the probability of the next student passing must be higher due to the recent failures. This belief assumes that past events affect the likelihood of an independent event, which is not true in cases involving random, independent processes.
+Addressing the Bias and Making a Selection:
+Given that each student's performance on the exam is an independent event, the previous failures do not influence the likelihood of the next student's outcome. Thus, the teacher’s adjustment of teaching methods might influence overall performance over time, but it does not change the probability of the next individual event in terms of this specific student's chances. Therefore, the probability of the next student passing the exam remains the same as the established probability of success, which is 85%.
+Answer:
+C. Equal to 85%",1,1,"Definition of Cognitive Bias:
+Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, where individuals create their own subjective reality from their perception of the input. These biases often lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+Analysis of the Teacher's Belief:
+The teacher believes that because four students have consecutively failed, the probability of the next student passing should be higher. This belief reflects a misunderstanding of probability known as the Gambler's Fallacy.
+Explanation:
+The Gambler's Fallacy is the erroneous belief that past independent events can affect the probability of future independent events. In this case, each student's exam outcome is independent of the others. The teacher's belief that the probability of passing has increased because of prior failures is incorrect. The probability of each student passing remains constant if no other factors have changed.
+Answer:
+The correct option, avoiding cognitive bias, is:
+C. Equal to 85%",1,1,"Cognitive bias refers to systematic patterns of deviation from rationality or objectivity in judgment. It can manifest in various forms, such as confirmation bias, where one seeks information that confirms their preconceptions, or the availability heuristic, where judgments are influenced by readily available information.
+In the scenario provided, the piano teacher's belief that the probability of the next student passing the exam should be higher due to multiple consecutive failures exhibits a form of cognitive bias. Specifically, it reflects the gambler's fallacy, which is the belief that the probability of an event is influenced by past events, even when they are statistically independent.
+Therefore, the most appropriate option to describe the probability of the next student passing the exam is:
+B. Less than 85%",0,0
+19,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+At a boutique coffee shop, the probability of a barista successfully producing a special latte and achieving high customer satisfaction is 80%. This barista has recently received some new and more complex latte orders, and in five consecutive attempts, each time failed to fully satisfy the customer. Although there were no obvious technical errors, the barista felt uneasy and began to doubt whether there were any issues with the new coffee beans or equipment. However, all equipment and raw materials showed normal after inspection. The barista believes that after this series of failures, the next production will definitely succeed because he feels that there have been too many failures. Please choose which of the following options best describes the probability of this barista successfully achieving high customer satisfaction in their next special latte production:
+Option:
+A. Above 80%
+B. Below 80%
+C. Equal to 80%",C,"Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment, where individuals create their own ""subjective reality"" from their perception of the input. This can often result in irrational thought processes and affect decisions and judgment.
+In the scenario you provided, the barista's belief that the next production will definitely succeed after a series of failures is an example of the gambler’s fallacy. This cognitive bias occurs when someone mistakenly believes that past events will affect future outcomes in independent trials. The barista believes that success is ""due"" because there have been several failures, despite each attempt being an independent event with its own set of probabilities.
+Given that the overall success rate is established at 80%, and assuming that each event is independent (i.e., the probability of success or failure on one does not depend on the outcome of another), the correct answer would be:
+C. Equal to 80%.
+This choice avoids the gambler's fallacy by recognizing that each production attempt is an independent event, and thus maintains the original probability of success, assuming no underlying changes in skill, materials, or conditions.",1,1,"Definition of Cognitive Bias:
+Cognitive bias refers to a systematic pattern of deviation from norm or rationality in judgment, where individuals create their own ""subjective reality"" from their perception of the input. These biases often result from the brain's attempt to simplify information processing and can lead to perceptual distortion, inaccurate judgment, illogical interpretation, or irrationality.
+Analyzing the Question:
+The barista believes that after a series of failures, the next production will definitely succeed because there have been too many failures. This thinking reflects the Gambler's Fallacy, a type of cognitive bias where one erroneously believes that past random events influence future random events. In this case, the barista incorrectly assumes that the previous failures increase the probability of a future success.
+Avoiding Cognitive Bias:
+To avoid this bias, it's crucial to recognize that each attempt at making the special latte is an independent event. The past outcomes do not affect the probability of future outcomes in independent events. The probability of achieving high customer satisfaction remains the same if the conditions (skills of the barista, equipment, coffee beans) have not changed.
+Clear Selection:
+The probability of the barista successfully achieving high customer satisfaction in their next special latte production remains unchanged, assuming no change in external conditions.
+Answer:
+C. Equal to 80%",1,1,"The cognitive bias relevant to the barista's situation is known as the Gambler's Fallacy. This bias occurs when someone believes that future probabilities are altered by past outcomes, despite the probabilities actually remaining unchanged.
+In this case, the barista assumes that after a series of failures (five consecutive attempts that did not fully satisfy customers), the next attempt is more likely to succeed because they feel they are ""due"" for a success. This is a misconception because each latte production attempt has an independent probability of success, which remains 80% based on historical data and conditions.
+Given this understanding, the clear selection for the probability of the barista successfully achieving high customer satisfaction in the next special latte production is:
+C. Equal to 80%
+This option reflects the understanding that each new attempt is independent of previous outcomes and the probability of success remains consistent at 80%, despite past failures.",1,1
+20,"Please tell me the definition of cognitive bias, then determine which type of bias the following question may be, think about the answer, avoid these biases, finally provide your clear selection. You can only choose one.
+In a high-end restaurant, a chef is specifically responsible for making exquisite desserts. The chef has a 65% chance of successfully attracting customer appreciation for the unique desserts on the new dessert menu. Recently, the chef tried a new dessert recipe, but failed to receive widespread praise from customers after five consecutive attempts, with each feedback pointing out different areas for improvement. The chef made multiple adjustments, but none of them achieved the expected results. Nevertheless, the chef remained optimistic and believed that the next attempt would be successful, as he believed that most of the problems had been gradually resolved. Please choose which of the following options best describes the probability of this chef successfully attracting customer appreciation on their next attempt to make this specialty dessert:
+Option:
+A. Equal to 65%
+B. Above 65%
+C. Below 65%",A,"Cognitive bias refers to systematic errors in thinking that affect the decisions and judgments that people make. These biases often occur as the brain attempts to simplify information processing. They are often a result of the brain's attempt to streamline information processing and relate new information to existing patterns or thoughts.
+In the scenario you described, the chef's continued optimism despite repeated failures could be an example of several cognitive biases:
+Confirmation Bias - Focusing on information or feedback that supports one's existing beliefs while ignoring contrary data.
+Overconfidence Bias - Having unjustified confidence in one's personal ability, often leading to a higher perceived probability of success than is warranted.
+Gambler's Fallacy - Believing that independent events are influenced by previous outcomes, such as expecting a success after a series of failures (thinking ""I'm due for a win"").
+
+Considering these biases and the situation:
+The chef’s past failures and the feedback received suggest that there may still be unresolved issues with the dessert.
+Although the chef has made adjustments, none have yet led to success, indicating potential ongoing issues rather than nearing a solution.
+The 65% success rate is a general statistic which may not apply in specific circumstances of repeated failure and feedback suggesting fundamental issues with the dessert.
+
+Thus, when considering the specific question of the probability of the chef's next attempt being successful, option C, ""Below 65%,"" would seem to be the most reasonable choice. This selection considers both the chef's repeated failures despite adjustments and avoids the optimistic bias he might have.",0,0,"Cognitive bias refers to systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. These biases are often a result of the brain's attempt to simplify information processing, but they can lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
+The scenario describes a situation where a chef, despite repeated failures, remains optimistic about future success. This could indicate an optimism bias or a form of gambler's fallacy, where the chef believes that past failures somehow increase the chances of future success.
+Now, let's determine the probability of the chef's success on the next attempt:
+The chef's probability of successfully attracting customer appreciation is given as 65%.
+Each attempt is an independent event, meaning the probability of success does not change based on previous outcomes.
+Despite the chef's adjustments and optimism, the statistical probability remains constant if we assume all other factors remain unchanged.
+
+Therefore, the best option to describe the probability of the chef successfully attracting customer appreciation on their next attempt is:
+Option A: Equal to 65%",1,1,"The cognitive bias that might apply here is the ""Gambler's Fallacy,"" which is the belief that future outcomes are influenced by past events, even when they are unrelated. In this case, the chef believes that because the past attempts did not succeed, the next attempt is more likely to succeed, which is not necessarily true.
+Given this scenario and to avoid the bias, the clear selection would be C. Below 65%. Each attempt is independent of the others, so the past failures do not affect the probability of success on the next attempt.",1,0
