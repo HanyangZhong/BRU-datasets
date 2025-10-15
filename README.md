@@ -113,12 +113,13 @@ If you use this repository or our findings in your work, please consider citing 
 bibtex
 ```
 @inproceedings{zhong2025balancing,
-  title={Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions},
-  author={Zhong, Hanyang and Wang, Liman and Cao, Wenting and Sun, Zeyuan},
-  booktitle={Proceedings of the Annual Meeting of the Cognitive Science Society},
-  volume={47},
-  year={2025},
-  url={https://escholarship.org/uc/item/2vr690cx}
+title     = {Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions},
+author    = {Zhong, H. and Wang, L. and Cao, Wenting and Sun, Zeyuan},
+booktitle = {Proceedings of the Annual Meeting of the Cognitive Science Society},
+volume    = {47},
+year      = {2025},
+publisher = {Cognitive Science Society},
+url       = {https://escholarship.org/uc/item/2vr690cx}
 }
 ```
 ---
