@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="https://hanyangzhong.github.io/BRU-website/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Project%20Website-blue?style=for-the-badge" alt="Project Website">
+  </a>
+  <a href="https://huggingface.co/datasets/hzlama/BRU-dataset" target="_blank">
+    <img src="https://img.shields.io/badge/📊-Dataset-orange?style=for-the-badge" alt="Dataset">
+  </a>
+  <a href="https://github.com/HanyangZhong/BRU-website/blob/main/src/assets/font/CogSci_BRU_Poster.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/🖼️-Poster-green?style=for-the-badge" alt="Poster">
+  </a>
+  <a href="https://www.youtube.com/watch?v=zBppe17zXSo" target="_blank">
+    <img src="https://img.shields.io/badge/🎥-Video-red?style=for-the-badge" alt="Video">
+  </a>
+</p>
+
+
 # 🧠 Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions
 
 Welcome to the official repository for the paper:
@@ -96,14 +112,13 @@ If you use this repository or our findings in your work, please consider citing 
 
 bibtex
 ```
-@misc{wang2024balancingrigorutilitymitigating,
-      title={Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions}, 
-      author={Liman Wang and Hanyang Zhong and Wenting Cao and Zeyuan Sun},
-      year={2024},
-      eprint={2406.10999},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2406.10999}, 
+@inproceedings{zhong2025balancing,
+  title={Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions},
+  author={Zhong, Hanyang and Wang, Liman and Cao, Wenting and Sun, Zeyuan},
+  booktitle={Proceedings of the Annual Meeting of the Cognitive Science Society},
+  volume={47},
+  year={2025},
+  url={https://escholarship.org/uc/item/2vr690cx}
 }
 ```
 ---
